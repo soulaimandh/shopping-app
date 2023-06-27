@@ -1,4 +1,4 @@
 # shopping-app
 
-A new Flutter project.
+<img src="./demo/Untitled-1.jpg"/>
 
